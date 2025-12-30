@@ -50,4 +50,4 @@ save_folder = r"C:\Users\YourUsername\Pictures\Screenshots"
 - Pillow (PIL)
 
 Happy Screenshotting <3
-- KatsCeationsAI
+KatsCeationsAI
