@@ -49,5 +49,5 @@ save_folder = r"C:\Users\YourUsername\Pictures\Screenshots"
 - Python 3.x
 - Pillow (PIL)
 
-Happy Screentshotting <3
+Happy Screenshotting <3
 - KatsCeationsAI
